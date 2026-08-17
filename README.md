@@ -15,7 +15,7 @@ const diyor: Developer = {
   role:        "Full Stack & Mobile Engineer",
   location:    "Samarkand, Uzbekistan 🇺🇿",
   currentWork: [
-    "Software Engineer Intern @ FloLabs Innovations Group (healthcare · AI · robotics)",
+    "Co Founder @ Learning Manegement System",
     "Teacher @ Fast Education (frontend, backend & full-stack)"
   ],
   stack:       ["React", "Next.js", "TypeScript", "React Native", "Node.js", "NestJS"],
