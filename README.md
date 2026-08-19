@@ -84,17 +84,6 @@ const diyor: Developer = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Diyor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Diyor-Khasanov&show_icons=true&hide_border=true&theme=tokyonight&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Diyor-Khasanov&layout=compact&hide_border=true&theme=tokyonight)
-
-</div>
-
----
-
 ## 🌐 Connect
 
 <div align="center">
